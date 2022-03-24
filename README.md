@@ -1,4 +1,4 @@
-# bootcamp-java-startwars-restapi
+# bootcamp-java-starwars-restapi
 
 ## Checklist da lição de casa - testes
 
